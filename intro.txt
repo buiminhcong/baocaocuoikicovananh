@@ -1,0 +1,10 @@
+Tên: shop bán quần áo
+Backend: Spring framework
+Fontend: android studio
+IDE: IntelIJ, mysql, postman, android studio
+Funtion: 
+-Đăng nhập đăng ký
+-nhân viên quản lí sản phẩm, quản lí thông tin cá nhân
+-khách hàng quản lí thông tin cá nhân
+-khách hàng xem, tim kiếm sản phẩm, thêm sản phẩm vào giỏ hàng
+-khách hàng order sản phẩm, thông tin sẽ dc gửi về gmail.

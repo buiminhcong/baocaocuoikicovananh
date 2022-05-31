@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">shop-cong</string>
+    <string-array name="mua">
+        <item>All</item>
+        <item>Đông</item>
+        <item>Hè</item>
+    </string-array>
+
+    <string-array name="danhmuc">
+        <item>All</item>
+        <item>Áo Nam</item>
+        <item>Áo Nữ</item>
+        <item>Quần Nam</item>
+        <item>Quần Nữ</item>
+        <item>Giày Nam</item>
+        <item>Giày Nữ</item>
+        <item>Dép</item>
+    </string-array>
+</resources>
